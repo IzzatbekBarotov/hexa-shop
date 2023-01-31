@@ -44,6 +44,10 @@ nav {
   color: #afafaf;
 }
 
+.menu {
+  display: none;
+}
+
 header {
   min-height: 90vh;
   display: grid;
@@ -252,7 +256,7 @@ p {
   .menu {
     display: block;
   }
-  .navbar_content > ul {
+  .navbar_container > ul {
     display: none;
   }
 }
