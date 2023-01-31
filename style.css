@@ -102,6 +102,11 @@ main {
   position: relative;
 }
 
+.category > h1,
+p {
+  color: white;
+}
+
 .category_overlay {
   color: white;
   text-align: center;
@@ -203,6 +208,10 @@ main {
 .men_overlay > p {
   background-color: white;
   padding: 12px 23px;
+}
+
+.men_overlay > p > i {
+  color: black;
 }
 
 .men_article:hover .men_overlay {
