@@ -105,14 +105,6 @@ main {
   position: relative;
 }
 
-.category > h1 {
-  color: white;
-}
-
-.category > p {
-  color: white;
-}
-
 .category_overlay {
   color: white;
   text-align: center;
