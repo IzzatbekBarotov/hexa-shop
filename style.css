@@ -397,6 +397,12 @@ main {
   .navbar_container > ul {
     display: none;
   }
+  .category_women,
+  .category_men,
+  .category_kids,
+  .category_accessories {
+    min-height: 100vh;
+  }
 }
 
 @media only screen and (max-width: 600px) {
